@@ -1,0 +1,4 @@
+User email                Role                        Password
+ndayishimye@gmail.com     Admin(permit users)         stuff
+josiaszacharie@gmail.com  Aproval(Approve mutation)   stuff
+micheline005@gmail.com    Branch(Add information)     123              
